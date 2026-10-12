@@ -1,2 +1,2 @@
-# Musicstore
-This is the main file guys
+Musicstore
+A Bengali music streaming and shopping platform inspired by Spotify, developed as a Database Management Systems (DBMS) course project. The platform allows users to explore Bengali music, purchase songs, discover artists, manage favorite artists, create personalized wishlists etc.
